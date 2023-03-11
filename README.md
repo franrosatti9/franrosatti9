@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Franco and I'm studying game development at UADE, Buenos Aires. 
+Alongside my studies, I'm working on my own projects that help me learn even more about Unity and C#, and hopefully I'll be uploading soon!
+
 <!--
 **franrosatti9/franrosatti9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
